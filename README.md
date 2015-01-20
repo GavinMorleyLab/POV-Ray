@@ -1,5 +1,5 @@
 # POV-Ray
-POV-Ray Magnetic Resonance animations
+POV-Ray Magnetic Resonance animations.
 Code to create animations shown on Wikipedia pages:
 http://en.wikipedia.org/wiki/Spin_echo
 and 
